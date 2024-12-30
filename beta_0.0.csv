@@ -1,0 +1,6 @@
+pitch_type,game_date,release_speed,player_name,events,zone,game_type,stand,home_team,away_team,balls,strikes,game_year,inning,effective_speed,pitch_number,bat_score,if_fielding_alignment,of_fielding_alignment,arm_angle
+KC,2024-10-30,77.5,"Buehler, Walker",strikeout,13,W,L,NYY,LAD,1,2,2024,9,77.3,4,6,Infield shade,Standard,53.2
+KC,2024-10-30,78.7,"Buehler, Walker",,14,W,L,NYY,LAD,1,1,2024,9,78.0,3,6,Infield shade,Standard,54.2
+FC,2024-10-30,93.1,"Buehler, Walker",,14,W,L,NYY,LAD,1,0,2024,9,93.7,2,6,Infield shade,Standard,44.8
+KC,2024-10-30,78.5,"Buehler, Walker",,13,W,L,NYY,LAD,0,0,2024,9,77.7,1,6,Infield shade,Standard,51.9
+KC,2024-10-30,77.4,"Buehler, Walker",strikeout,7,W,L,NYY,LAD,3,2,2024,9,76.8,7,6,Infield shade,Standard,50.0
